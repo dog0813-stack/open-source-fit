@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源项目适配调研"
+  short_description: "从业务需求出发查找开源方案，核对源码与免费边界，比较复用方式和验证路径"
+  default_prompt: "使用 $open-source-fit，根据我的现有项目查找适合的开源产品或组件，核对官方资料和免费版边界，先给出复用方案及验证计划。"
